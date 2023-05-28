@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Users\\Karlo\\Documents\\Client Programming\\W12C2-Demo-FacultyApp-V.6.0\\W12C2-Demo-FacultyApp-V.6.0\\FacultyApp\\ProjectKP3.csproj": {}
+  },
+  "projects": {
+    "C:\\Users\\Karlo\\Documents\\Client Programming\\W12C2-Demo-FacultyApp-V.6.0\\W12C2-Demo-FacultyApp-V.6.0\\FacultyApp\\ProjectKP3.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Users\\Karlo\\Documents\\Client Programming\\W12C2-Demo-FacultyApp-V.6.0\\W12C2-Demo-FacultyApp-V.6.0\\FacultyApp\\ProjectKP3.csproj",
+        "projectName": "ProjectKP3",
+        "projectPath": "C:\\Users\\Karlo\\Documents\\Client Programming\\W12C2-Demo-FacultyApp-V.6.0\\W12C2-Demo-FacultyApp-V.6.0\\FacultyApp\\ProjectKP3.csproj",
+        "packagesPath": "C:\\Users\\Karlo\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Karlo\\Documents\\Client Programming\\W12C2-Demo-FacultyApp-V.6.0\\W12C2-Demo-FacultyApp-V.6.0\\FacultyApp\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\Karlo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.201\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
